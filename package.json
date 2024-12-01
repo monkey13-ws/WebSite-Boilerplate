@@ -95,7 +95,7 @@
     "@builder.io/partytown": "^0.10.2",
     "@csstools/postcss-global-data": "^2.1.1",
     "@csstools/postcss-progressive-custom-properties": "^3.2.0",
-    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "@fullhuman/postcss-purgecss": "^7.0.2",
     "@playwright/test": "^1.44.1",
     "@rushstack/eslint-patch": "^1.10.3",
     "@total-typescript/ts-reset": "^0.5.1",

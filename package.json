@@ -108,7 +108,7 @@
     "babel-preset-airbnb": "^5.0.0",
     "browser-sync": "^3.0.2",
     "chalk-cli": "^5.0.1",
-    "concurrently": "^8.2.2",
+    "concurrently": "^9.1.2",
     "copyfiles": "^2.4.1",
     "cpx2": "^7.0.1",
     "cssnano": "^7.0.2",
